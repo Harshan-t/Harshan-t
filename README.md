@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARSHAN</h1>
 <h3 align="center">Still a student learning something new everyday</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshan-t" alt="harshan-t" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **harshanthangavel123@gmail.com**
