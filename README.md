@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARSHAN</h1>
 <h3 align="center">Still a student learning something new everyday</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 📫 How to reach me **harshanthangavel123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
